@@ -31,7 +31,7 @@ b. Casual - (Non-registered users using Cyclistic bikes)
 1. The **director** of marketing **believes** the company’s **future success depends on maximizing** the number of **annual memberships**.
 2. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders.
 
-# 1. Objective1: -- <img src="" width="800"/>
+# 1. Objective1:
 ## Understand the behavioral differences between Casual and Member regarding bike usage.
 
 # Ask - Questions to Answer 

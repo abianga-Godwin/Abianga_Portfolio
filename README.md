@@ -92,3 +92,5 @@ Though the marginal intervals are 5 minutes it seems more than that in the graph
 Image b.
 
 
+Here is a chart showing the trip duration of Casual and Member in hours.
+

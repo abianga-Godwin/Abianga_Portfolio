@@ -43,15 +43,22 @@ Three questions will guide the future marketing program:
 The chart below illustrates how both user groups utilize the two available bike types. Overall, it is evident that members use classic bikes more frequently than casual users.
 
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/5ba9249d8f33314a429a9b6cb2576524c68255d0/SVG_Images/Classic_bike%20Member%20vs%20Classic_bike%20Casual.svg)
+![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Classic_bike%20vs%20Classic_bike.svg)
 
 
 In the chart below, we observe that members continue to utilize the second bike type, electric bikes, more frequently than casual users.
 
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/2899a9752c75727641eb8c832df337bdfc2e32be/SVG_Images/Electric_bike%20Member%20and%20Electric_bike%20Casual.svg)
+![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Electric_bike%20vs%20Electric_bike.svg)
 
 
 The two charts below highlights the behavior of Casual and Member users regarding their preferred bike type.
 
 
+![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Electric_bike%20vs%20Classic_bike.svg)
+
+Image a.
+
+![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Classic_bike%20vs%20Electric_bike.svg)
+
+Image b.

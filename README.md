@@ -31,10 +31,10 @@ b. Casual - (Non-registered users using Cyclistic bikes)
 1. The **director** of marketing **believes** the company’s **future success depends on maximizing** the number of **annual memberships**.
 2. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders.
 
-# 1. Objective1: 
+# 1. Objective1: -- <img src="" width="800"/>
 ## Understand the behavioral differences between Casual and Member regarding bike usage.
 
-# Ask - Questions to Answer
+# Ask - Questions to Answer 
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
@@ -43,22 +43,22 @@ Three questions will guide the future marketing program:
 The chart below illustrates how both user groups utilize the two available bike types. Overall, it is evident that members use classic bikes more frequently than casual users.
 
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Classic_bike%20vs%20Classic_bike.svg)
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/da6a67b0f3b96b974ef3fe6ec302418238fc060b/PDF%20Chart%20Files/Classic_bike%20vs%20Classic_bike(Member%20vs%20Casual)..svg" width="1000"/>
 
 
 In the chart below, we observe that members continue to utilize the second bike type, electric bikes, more frequently than casual users.
 
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Electric_bike%20vs%20Electric_bike.svg)
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/da6a67b0f3b96b974ef3fe6ec302418238fc060b/PDF%20Chart%20Files/Electric_bike%20vs%20Electric_bike(Member%20vs%20Casual).pdf" width="1000"/>
 
 
 The two charts below highlights the behavior of Casual and Member users regarding their preferred bike type.
 
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Electric_bike%20vs%20Classic_bike.svg)
+<img src="" width="800"/>
 
 Image a.
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/32ebd9d076fc5a48c8b4d0e3462cd19c5292b477/SVG_Images/Classic_bike%20vs%20Electric_bike.svg)
+<img src="" width="800"/>
 
 Image b.

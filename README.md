@@ -78,4 +78,4 @@ Based on the annual data, as shown in the chart below, it is evident that regist
 However, one might be tempted to conclude that registered members, due to their higher trip frequency compared to casual users, are more likely to generate greater revenue. I contend that trip frequency alone does not outweigh the importance of trip duration, as demonstrated in the next chart.
 
 
-<img src="" width"1000"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/15d1066ce3a6f375899e5a996c2c35b962e34a16/PDF%20Chart%20Files/AVERAGE%20Ride%20Duration.svg" width="1000"/>

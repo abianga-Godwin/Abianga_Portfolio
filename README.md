@@ -80,5 +80,15 @@ However, one might be tempted to conclude that registered members, due to their 
 
 <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/15d1066ce3a6f375899e5a996c2c35b962e34a16/PDF%20Chart%20Files/AVERAGE%20Ride%20Duration.svg" width="1000"/>
 
+Image a.
 
-While members exhibit higher trip frequency, casual users tend to use the bikes for longer durations. In my view, this longer usage more than offsets the higher frequency rate of registered members, which will ultimately be reflected in the annual revenue generated.
+
+While members exhibit higher trip frequency, casual users tend to use the bikes for longer durations. In my view, this longer usage more than offsets the higher frequency rate of registered members, which will ultimately be reflected in the annual revenue generated. 
+
+Though the marginal intervals are 5 minutes it seems more than that in the graph. So I show the above chart from a different diagram and recalculated the durations into hours and represent that in a different diagram.
+
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/90bbc4237723d599daf720bf46e60900e906f192/PDF%20Chart%20Files/Member%20vs%20Casual%20AVERAGE%20Ride_Length.svg" width=""/>
+
+Image b.
+
+

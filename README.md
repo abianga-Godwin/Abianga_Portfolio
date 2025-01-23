@@ -39,3 +39,6 @@ Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
+
+
+![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/98f216b1a7cc877785954bf0795d661efb27831c/Images/Causual%20and%20Member%20Bike%20Usage_02.png)

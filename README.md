@@ -73,3 +73,6 @@ Image c.
 Based on the annual data, as shown in the chart below, it is evident that registered members use the bikes more frequently than non-registered members, as illustrated in the chart below.
 
 <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/68981546a0dc6c68af013250c397071e021c1e6b/PDF%20Chart%20Files/Casual%20vs%20Member.svg" width="1000"/>
+
+
+However, one might be tempted to conclude that registered members, due to their higher trip frequency compared to casual users, are more likely to generate greater revenue. I contend that trip frequency alone does not outweigh the importance of trip duration, as demonstrated in the next chart.

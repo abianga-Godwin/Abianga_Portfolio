@@ -59,6 +59,6 @@ The two charts below highlights the behavior of Casual and Member users regardin
 
 Image a.
 
-<img src="" width="1000"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/d66943715ba378d3f410d52fd905922f11da6bcf/PDF%20Chart%20Files/Classic_bike%20vs%20Electric_bike(Member).svg" width="1000"/>
 
 Image b.

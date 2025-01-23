@@ -41,4 +41,4 @@ Three questions will guide the future marketing program:
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/98f216b1a7cc877785954bf0795d661efb27831c/Images/Causual%20and%20Member%20Bike%20Usage_02.png)
+![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/19102e7fc2bf9200bfe4243fff45bc71050426f1/Images/Causual%20and%20Member%20Bike%20Usage_02.png)

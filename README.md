@@ -62,3 +62,14 @@ Image a.
 <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/d66943715ba378d3f410d52fd905922f11da6bcf/PDF%20Chart%20Files/Classic_bike%20vs%20Electric_bike(Member).svg" width="1000"/>
 
 Image b.
+
+
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/fd8abee868fa714c7dda9fbb0f78102d6fbf57a8/PDF%20Chart%20Files/Bike%20Usage.svg" width="1000"/>
+
+Image c.
+
+
+
+Based on the annual data, it is evident that registered members use the bikes more frequently than non-registered members, as illustrated in the chart below.
+
+<img src="" width="1000"/>

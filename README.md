@@ -49,7 +49,7 @@ The chart below illustrates how both user groups utilize the two available bike 
 In the chart below, we observe that members continue to utilize the second bike type, electric bikes, more frequently than casual users.
 
 
-<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/da6a67b0f3b96b974ef3fe6ec302418238fc060b/PDF%20Chart%20Files/Electric_bike%20vs%20Electric_bike(Member%20vs%20Casual).pdf" width="1000"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/2cd4445b9bbd31945218609c8daea273e3f27746/PDF%20Chart%20Files/Electric_bike%20vs%20Electric_bike(Member%20vs%20Casual).svg" width="1000"/>
 
 
 The two charts below highlights the behavior of Casual and Member users regarding their preferred bike type.

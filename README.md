@@ -42,7 +42,3 @@ Three questions will guide the future marketing program:
 
 In the image below of the data summary for how both members use the two bike types we can see in general that te memebers use both bikes more in comparison to the Casual users.
 ![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/30cca95f0bbc4d7aa58c21e187b41ca39f2de733/SVG_Images/Classic_bike%20Member%20vs%20Classic_bike%20Casual.svg)
-
-
-The Graph below shows the visual illustration of the difference in classic_bike usage between Member and Casual 
-![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/1d5cf00d6e2ed30ec953e2e39a6f40e8947afba3/SVG_Images/Classic_bike%20Member%20and%20Classic_bike%20Casual.svg)

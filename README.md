@@ -43,7 +43,7 @@ Three questions will guide the future marketing program:
 The chart below illustrates how both user groups utilize the two available bike types. Overall, it is evident that members use classic bikes more frequently than casual users.
 
 
-<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/da6a67b0f3b96b974ef3fe6ec302418238fc060b/PDF%20Chart%20Files/Classic_bike%20vs%20Classic_bike(Member%20vs%20Casual)..svg" width="1000"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/582ae3a1526ec47a9024d1061cd41a6566177504/PDF%20Chart%20Files/Classic_bike%20(Member%20vs%20Casual).svg" width="1000"/>
 
 
 In the chart below, we observe that members continue to utilize the second bike type, electric bikes, more frequently than casual users.

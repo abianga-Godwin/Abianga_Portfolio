@@ -50,3 +50,8 @@ In the chart below, we observe that members continue to utilize the second bike 
 
 
 ![image alt](https://github.com/abianga-Godwin/Abianga_Portfolio/blob/2899a9752c75727641eb8c832df337bdfc2e32be/SVG_Images/Electric_bike%20Member%20and%20Electric_bike%20Casual.svg)
+
+
+The two charts below highlights the behavior of Casual and Member users regarding their preferred bike type.
+
+

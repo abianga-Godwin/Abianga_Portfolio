@@ -69,7 +69,9 @@ Image b.
 Image c.
 
 
-Both Member and casual favours Electric Bikes more than Classic Bikes. However, in the colder season like January and february, both users favor classic bike and in the month of March, they both transit start transiting to Electric, using both bike almost equally in the month of March. It is also apparent that members are more likely to take round trips compared to casual riders, as illustrated in the chart below.
+Both Member and casual favours Electric Bikes more than Classic Bikes. However, in the colder season like January and february, both users favor classic bike and in the month of March, they both transit start transiting to Electric, using both bike almost equally in the month of March. 
+
+It is also apparent that members are more likely to take round trips compared to casual riders, as illustrated in the chart below.
 
 <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/12884d6970d34d2e7180d84017952c014a73a23c/PDF%20Chart%20Files/No.%20of%20Round%20Trips%20.svg" width="1000"/>
 

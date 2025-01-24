@@ -72,7 +72,7 @@ Image c.
 Both Member and casual favours Electric Bikes more than Classic Bikes. However, in the colder season like January and february, both users favor classic bike and in the month of March, they both transit start transiting to Electric, using both bike almost equally in the month of March..
 
 
-Moreover, Based on the annual data, as shown in the chart below, it is evident that registered members use the bikes more frequently than non-registered members, as illustrated in the chart below.
+Moreover, based on the annual data, as shown in the chart below, it is evident that registered members use the bikes more frequently than non-registered members, as illustrated in the chart below.
 
 <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/68981546a0dc6c68af013250c397071e021c1e6b/PDF%20Chart%20Files/Casual%20vs%20Member.svg" width="1000"/>
 

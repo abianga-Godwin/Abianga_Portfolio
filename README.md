@@ -94,3 +94,14 @@ Image b.
 
 Here is a chart showing the trip duration of Casual and Member in hours.
 
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/c6a7b8610574b4c6f8ea41d4ab3fd054f15da12a/PDF%20Chart%20Files/Monthly%20Ride_Duration%20(Hours).svg" width="1000"/>
+
+Image c.
+
+
+And analysing the same data from a different chart:
+
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/3c5436a86dbeef7b7e9652a4f54f80bc4aa61af7/PDF%20Chart%20Files/Monthly%20Ride_Duration%20(Hours)%20(1).svg" width="1000"/>
+
+Image d.
+

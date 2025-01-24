@@ -87,7 +87,7 @@ While members exhibit higher trip frequency, casual users tend to use the bikes 
 
 Though the marginal intervals are 5 minutes it seems more than that in the graph. So I show the above chart from a different diagram and recalculated the durations into hours and represent that in a different diagram.
 
-<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/90bbc4237723d599daf720bf46e60900e906f192/PDF%20Chart%20Files/Member%20vs%20Casual%20AVERAGE%20Ride_Length.svg" width=""/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/90bbc4237723d599daf720bf46e60900e906f192/PDF%20Chart%20Files/Member%20vs%20Casual%20AVERAGE%20Ride_Length.svg" width="1000"/>
 
 Image b.
 

@@ -64,7 +64,7 @@ Image a.
 Image b.
 
 
-<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/fd8abee868fa714c7dda9fbb0f78102d6fbf57a8/PDF%20Chart%20Files/Bike%20Usage.svg" width="1000"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/c049a168a1de5a5fbb55ee77087cf4bf6a972cf1/PDF%20Chart%20Files/Bike%20usage.svg" width="1000"/>
 
 Image c.
 

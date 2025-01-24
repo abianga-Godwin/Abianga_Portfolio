@@ -11,6 +11,17 @@ The Data on my Portfolio has already been cleaned up by me and few more columns 
 ## Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this case study, I happen to work for a **fictional company, Cyclistic**, along with some key team members. In order to answer the business questions, I am following the steps of the data analysis process, which I term A.P.P.A.S.A. or APPASA.
 
+## Data Size
+Number of Columns: 18
+
+Number of Row: 5,906,270
+
+Time Frame: December 2023 - November 2024
+
+Special thanks to: Google and Coursera
+
+File source: https://divvy-tripdata.s3.amazonaws.com/index.html
+
 ## The average bike rental price in the U.S. market is approximately:
 
 a. **$0.16** per minute for regular/**classic_bike**

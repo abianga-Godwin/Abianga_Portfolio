@@ -101,7 +101,7 @@ Image c.
 
 And analysing the same data from a different chart:
 
-<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/3c5436a86dbeef7b7e9652a4f54f80bc4aa61af7/PDF%20Chart%20Files/Monthly%20Ride_Duration%20(Hours)%20(1).svg" width="1000"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/93cca2f580796cb39e7f6933ce76351021d4d302/PDF%20Chart%20Files/Monthly%20Ride_Duration%20(Hours)%20(1).svg" width="1000"/>
 
 Image d.
 

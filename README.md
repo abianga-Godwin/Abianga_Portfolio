@@ -28,7 +28,7 @@ a. **$0.16** per minute for regular/**classic_bike**
 
 b. **$0.28** per minute for e-bikes/**electric_bike**
 
-## B. Types of User
+## Types of User in this data
 
 a. Member - (Registered users using Cyclistic bikes)
 

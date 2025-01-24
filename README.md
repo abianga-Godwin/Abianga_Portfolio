@@ -116,6 +116,7 @@ Image d.
 Lastly, to determine if annual members are much more profitable than casual riders, I had to use chatgpt to find out the average price of classic and electric bikes, which I stated earlier and then find the average of the two price to determine a single price representation for the purpose of this analysis. Remember I said I am convinced that although the Members have a higher trip ratio, the high trip duration of the casuals with low trip ratio is enough to upset the balance. The Annual revenue chart below confirms my prediction and render the bias of the finance analysts who had concluded that annual members are much more profitable than casual riders, null and void.
 
 
-<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/83b9c8b6c8c0f289f15065e823e334c943a68d4d/PDF%20Chart%20Files/Clyclistic%20Annual%20Revenue.svg" width="500"/> <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/c7c06ec1b0ad2beb31ea4e9daf82db414782c7c3/PDF%20Chart%20Files/Clyclistic%20Annual%20Revenue%20(1).svg" width="500"/>
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/83b9c8b6c8c0f289f15065e823e334c943a68d4d/PDF%20Chart%20Files/Clyclistic%20Annual%20Revenue.svg" width="1000"/>  
+<img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/c7c06ec1b0ad2beb31ea4e9daf82db414782c7c3/PDF%20Chart%20Files/Clyclistic%20Annual%20Revenue%20(1).svg" width="1000"/>
 
 

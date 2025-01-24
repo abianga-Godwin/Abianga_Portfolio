@@ -39,6 +39,7 @@ Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
+4. Is annual members much more profitable than casual riders?
 
 The chart below illustrates how both user groups utilize the two available bike types. Overall, it is evident that members use classic bikes more frequently than casual users.
 

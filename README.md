@@ -20,7 +20,9 @@ Time Frame: December 2023 - November 2024
 
 Special thanks to: Google and Coursera
 
-File source: https://divvy-tripdata.s3.amazonaws.com/index.html
+**File Raw Data source: https://divvy-tripdata.s3.amazonaws.com/index.html**
+
+**The Cleaned data used for this analysis can be found here: https://www.kaggle.com/datasets/godwinabianga/202312-2024-divvy-tripdata**
 
 ## The average bike rental price in the U.S. market is approximately:
 

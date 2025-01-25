@@ -174,4 +174,4 @@ While annual members exhibit significantly higher trip frequency, casual riders�
 2. Both groups exhibit low trip frequency from November to February.  
 3. Despite higher trip frequency among annual members, casual riders' longer trip durations contribute to comparable revenue generation.  
 
-Revenue analysis shows a narrow margin between the two groups, with annual members contributing $10,094,910 and casual riders $10,040,184—just $54,726 less. This challenges the assumption that annual members are substantially more profitable, emphasizing the role of trip duration in revenue contributions.
+Revenue analysis shows a narrow margin between the two groups, with annual members contributing $10,094,910 and casual riders $10,040,184—just $54,726 less. **This challenges the assumption that annual members are substantially more profitable, emphasizing the role of trip duration in revenue contributions.**

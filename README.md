@@ -133,3 +133,33 @@ As previously mentioned, while members exhibit a higher trip frequency, I hypoth
 <img src="https://github.com/abianga-Godwin/Abianga_Portfolio/blob/c7c06ec1b0ad2beb31ea4e9daf82db414782c7c3/PDF%20Chart%20Files/Clyclistic%20Annual%20Revenue%20(1).svg" width="1000"/>
 
 
+# Conclusion:
+1. **How do annual members and casual riders use Cyclistic bikes differently?**
+
+- Annual members consistently use both classic and electric bikes more than casual riders.  
+- Both user groups show a preference for electric bikes as their go-to choice.  
+- Between January and February, both user types predominantly use classic bikes. However, in March, annual members show a nearly equal distribution of classic and electric bike usage before a sharp increase in electric bike usage from April to October.  
+- Usage patterns indicate low trip frequency during colder months (November to February) and peak demand in warmer months (May to October), strongly suggesting that cold weather directly affects trip frequency.  
+
+2. **Why would casual riders buy Cyclistic annual memberships?**
+
+The data suggests limited incentives for casual riders to transition to annual memberships, as casual riders tend to take longer trips, whereas annual members take shorter but more frequent trips. However, the higher trip frequency among members indicates potential benefits or incentives that encourage their consistent usage. To bridge this gap:  
+- Cyclistic should design incentives targeting casual riders to motivate them to switch to memberships, combining high trip frequency with longer trip durations.  
+- Additionally, Cyclistic could explore strategies to encourage members to extend their trip durations.  
+
+3. **How can Cyclistic use digital media to influence casual riders to become members?**
+
+1. Behavioral targeting through social media: Leverage data-driven algorithms to deliver personalized, benefit-focused advertisements to casual riders.  
+2. Email segmentation: Tailor email campaigns based on rider behavior, emphasizing membership cost savings and exclusive perks.  
+3. Push notification A/B testing: Optimize app notifications to highlight membership benefits, using engagement metrics like click-through rates to refine messaging.  
+4. Geospatial analytics for hyperlocal ads: Deploy localized, data-informed ads in areas with high casual rider density to promote memberships.  
+5. Time-limited campaigns: Use predictive analytics to identify optimal periods for time-sensitive membership offers, tracking metrics like conversion rates and cost-per-acquisition (CPA) for continuous improvement.  
+
+4. **Are annual members more profitable than casual riders?**
+
+While annual members exhibit significantly higher trip frequency, casual riders’ longer trip durations appear to balance profitability. Revenue analysis confirms this:  
+
+- **Annual Members** generated an average revenue of **$10,094,910**.  
+- **Casual Riders** generated an average revenue of **$10,040,184**, trailing by just **$54,726**.  
+
+This narrow margin disproves the assumption that annual members are substantially more profitable than casual riders. Instead, it highlights a nearly equivalent revenue contribution from both groups, suggesting that profitability is not solely tied to trip frequency but also influenced by trip duration.

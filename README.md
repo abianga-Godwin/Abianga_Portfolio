@@ -90,7 +90,8 @@ It is also apparent that members are more likely to take round trips compared to
 
 **Therefore, answering the question: How do annual members and casual riders use Cyclistic bikes differently?**
 
-- Annual members consistently use both classic and electric bikes more than casual riders.  
+- Annual members consistently use both classic and electric bikes more than casual riders.
+- Annual Memnber make more round trips compared to Casual riders.
 - Both user groups show a preference for electric bikes as their go-to choice.  
 - Between January and February, both user types predominantly use classic bikes. However, in March, annual members show a nearly equal distribution of classic and electric bike usage before a sharp increase in electric bike usage from April to October.  
 - Usage patterns indicate low trip frequency during colder months (November to February) and peak demand in warmer months (May to October), strongly suggesting that cold weather directly affects trip frequency.  

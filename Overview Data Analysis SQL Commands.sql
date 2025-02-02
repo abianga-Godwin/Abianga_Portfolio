@@ -1,3 +1,4 @@
+-- There the quaries I used in Data Analysis
 -------------------------------------------------------------------------------------------------------------------------- Get Total Number of Rows
 SELECT
   *

@@ -1,4 +1,4 @@
-/*
+/* These the second part of the sql queries I used in creating modifying and recreating my tables in the processing of trying to clean and compile my data
 
 ALTER TABLE `constant-tracer-438121-p1.My_Cyclistic_FullData_2024.202312_2024_Cyclistic_TripData`
 DROP COLUMN string_field_18;
